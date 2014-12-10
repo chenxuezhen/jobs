@@ -1,23 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>找工作计划书</title>
-<style type="text/css">
-body,div,h1,h2,h3,h4,h5,h6,p,ul,li,ol,li,dl,dt,dd,input,span,a,img{ margin:0; padding:0; list-style:none;}
-body{ color:#333; font-size:16px; font-family:"宋体"; background:#eeeeee;}
-a{ color:#333; text-decoration:none;}
-a:hover{ text-decoration:underline;}
-
-.main{ width:700px;border:1px solid #cacaca; margin:100px auto; background:#fff url(images/line.jpg) repeat-x; padding:20px 15px 10px;}
-h2{ font-size:22px; border-bottom:1px solid #ccc;}
-h2 span{ font-size:14px;}
-ul{ border-top:1px solid #fff;}
-ul li{ border-bottom:1px dashed #ccc; line-height:34px; height:34px; background:url(images/arr.jpg) no-repeat 5px center; padding-left:20px;}
-</style>
-</head>
-
-<body>
 jobs
 ====
 
@@ -39,5 +19,3 @@ I want to get a job
 
     </ul>
 </div>
-</body>
-</html>
